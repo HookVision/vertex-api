@@ -1,7 +1,11 @@
 {
-    "VTX-DEV-0001": {
-        "type": "dev",
-        "expires": null,
-        "hwid": null
+    "keys": {
+        "DEV-KEY-456": {
+            "type": "dev"
+        },
+        "TEST-KEY-123": {
+            "type": "premium",
+            "expires": "2025-12-31"
+        }
     }
 }
